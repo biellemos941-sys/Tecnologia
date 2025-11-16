@@ -15,6 +15,11 @@ Em meio a tudo isso, plataformas móveis como o Termux ganharam destaque. Elas p
 
 2025 não é apenas o ano da tecnologia avançada: é o ano em que entender segurança digital se tornou essencial para qualquer pessoa que deseja navegar, criar e inovar no mundo moderno.
 
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/40be2810-937d-492d-b904-77249b0de6b5" />
+
+
+
 📌 LINK SEGURO para aprender comandos do Termux
 
 (Conteúdo permitido / educacional / não criminoso)
