@@ -1,6 +1,7 @@
 )
 
-🔐 Tecnologia e Hacking Ético em 2025: A Nova Fronteira da Segurança Digital
+A Tecnologia que Molda 2025
+
 
 Em 2025, a tecnologia se expandiu a uma velocidade sem precedentes — e com isso, a segurança digital se tornou um dos pilares mais importantes do mundo conectado. A quantidade de dados que circulam todos os dias é gigantesca, e proteger essas informações é um desafio contínuo.
 
