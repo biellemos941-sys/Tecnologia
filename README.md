@@ -29,21 +29,27 @@ Esses são 100% seguros, oficiais e permitidos.
 Comandos totalmente seguros (não fazem nada ilegal):
 
 ✅ 1. Atualizar tudo
+
 pkg update && pkg upgrade -y
 
 ✅ 2. Atualizar apenas pacotes
+
 pkg upgrade
 
 ✅ 3. Atualizar repositórios
+
 pkg update
 
 ✅ 4. Limpar pacotes desnecessários
+
 pkg clean
 
 ✅ 5. Ver versão do Termux
+
 termux-info
 
 ✅ 6. Instalar pacotes úteis
+
 pkg install git
 pkg install python
 pkg install nano
@@ -51,7 +57,9 @@ pkg install wget
 pkg install curl
 
 ✅ 7. Ver todos os pacotes disponíveis
+
 pkg list-all
 
 ✅ 8. Abrir editor de texto
+
 nano arquivo.txt
