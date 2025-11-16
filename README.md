@@ -2,6 +2,8 @@
 
 A TECNOLOGIA QUE MOLDA 2025
 
+<img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/af4c77c3-3bf0-4bb0-92fe-a3496d69094e" />
+
 
 Em 2025, a tecnologia se expandiu a uma velocidade sem precedentes — e com isso, a segurança digital se tornou um dos pilares mais importantes do mundo conectado. A quantidade de dados que circulam todos os dias é gigantesca, e proteger essas informações é um desafio contínuo.
 
